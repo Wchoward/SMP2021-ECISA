@@ -1,3 +1,6 @@
+# SMP2021-ECISA 中文隐式情感分析评测 第三名解决方案
+评测主页: (https://github.com/sxu-nlp/ECISA2021)
+
 1. 数据预处理
 
    ```shell
